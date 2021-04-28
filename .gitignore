@@ -1,0 +1,9 @@
+# jupyter
+.ipynb_checkpoints/
+
+# Data set
+heartbeat-sounds.zip
+data/
+
+# Mac
+.DS_Store
